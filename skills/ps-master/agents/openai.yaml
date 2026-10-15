@@ -1,0 +1,4 @@
+interface:
+  display_name: "PS 大师"
+  short_description: "自然真实、保留人物身份的全能照片精修与非破坏式成品管理"
+  default_prompt: "Use $ps-master to naturally retouch my photo while preserving identity and saving a non-destructive final."

@@ -1,0 +1,7 @@
+# Modified by Shirehuhu on 2026-10-14: optional microcopy wording.
+# Copyright (c) 2026 Zeejay0; source and original attribution: ../NOTICE.
+# License: unchanged upstream Personal Non-Commercial License in ../LICENSE.
+interface:
+  display_name: "Morandi Cinematic Poster · Zeejay"
+  short_description: "把个人照片转成无星形、纯文字驱动的莫兰迪电影感海报"
+  default_prompt: "Use $morandi-cinematic-poster-zeejay to transform this photograph into a source-faithful cinematic poster with original film typography, restrained optional microcopy, and no decorative symbols."

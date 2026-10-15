@@ -1,0 +1,38 @@
+Photo Poster Skills — Personal Non-Commercial License
+Version 1.0 — 2026-10-15
+Copyright (c) 2026 Shirehuhu. All rights reserved.
+
+SCOPE
+This license covers Shirehuhu's original components named
+watercolor-editorial-poster, paper-pulp-relief-poster and ps-master, and the
+original repository documentation and packaging work. It does not replace the
+separate licenses of third-party components or grant rights to user photographs.
+
+PERMISSION
+Individuals may download, install, use, copy, modify and redistribute the
+covered materials entirely free of charge for personal, non-commercial
+learning, research, experimentation and hobby purposes.
+
+Redistribution must retain this license, copyright and source notices, clearly
+identify modifications, and preserve these terms for the covered materials.
+
+LIMITS
+Commercial use is not licensed. Without prior written permission from Shirehuhu,
+do not sell the covered materials or use them for paid generation, commissioned
+work, monetized services, subscriptions, training, consulting, SaaS/API offerings,
+or company/client projects. No trademark, endorsement or sponsorship rights
+are granted. Rights not expressly granted are reserved.
+
+THIRD-PARTY MATERIALS
+Each third-party component remains under its own included license. In
+particular, the MIT terms for gc-minimal-zine-poster-v0-3 are not narrowed by
+this license; the Zeejay0 components retain their original Personal
+Non-Commercial License. See NOTICE.md and the component LICENSE files.
+The combined collection must not be advertised as wholly MIT or as permitting
+unrestricted commercial use.
+
+DISCLAIMER
+The materials are provided "as is", without warranties of any kind. To the
+extent permitted by law, the author is not liable for claims or damages arising
+from their use. Static validation does not guarantee image quality, identity
+preservation, text correctness, or availability of an image-generation service.
